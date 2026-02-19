@@ -1,44 +1,43 @@
 ## Hi, I'm Abhishek 👋
 
-🐍 Python Developer | Backend & Database Enthusiast  
-🎓 Diploma CSE Student | Aspiring AI Engineer  
+🐍 Python Developer | 📊 Data Analytics Enthusiast  
+🤖 Aspiring AI Engineer  
 
-I enjoy building backend applications using Python and MySQL, focusing on clean logic, CRUD operations, and real-world problem solving.
+I build backend applications using Python and MySQL, analyze data using NumPy, Pandas, and Power BI, and explore how AI can solve real-world problems. I focus on writing clean, efficient code and improving my analytical thinking.
 
 ---
 
 ### 🔧 Technical Skills
-- *Languages:* Python, Java  
+- *Programming:* Python, Java  
+- *Data & Analytics:* NumPy,Power BI, MS Excel  
 - *Databases:* MySQL, SQL, DBMS  
 - *Web Basics:* HTML, CSS, PHP  
-- *Tools:* VS Code, MySQL Workbench, MS Excel  
+- *Tools:* VS Code, MySQL Workbench  
 - *Core Concepts:* OOPs, CRUD Operations, Database Design, Backend Logic  
 
 ---
 
 ### 📌 Projects
 - *Mini Banking System (Python + MySQL)*  
-  Backend application with account management, transactions, and database integrity.
+  Backend banking application with account management, transactions, and transaction history.
 
-- *Jarvis – AI Voice Assistant*  
-  Python-based voice assistant using speech recognition and text-to-speech to perform system and web tasks.
-
-- *Student Management System*  
-  CRUD-based backend system using Python and MySQL.
+- *Jarvis – AI Voice Assistant (Python)*  
+  Voice-controlled assistant using speech recognition and text-to-speech.
 
 ---
 
 ### 📚 Currently Learning
-- Data Structures in Python  
-- Machine Learning Basics  
+- Machine Learning Fundamentals  
+- Data Analysis with NumPy & Pandas  
+- Power BI Advanced Dashboards  
 
 ---
 
-### 💼 Looking For
+### 🎯 Career Interests
 - Python Developer Intern  
-- Backend Intern  
 - Data Analyst Intern  
-- Software Trainee  
+- AI / Machine Learning Intern  
+- Backend Intern  
 
 ---
 
@@ -46,5 +45,4 @@ I enjoy building backend applications using Python and MySQL, focusing on clean 
 - 📧 Email: itsabhishek.patel29@gmail.com  
 - 📍 Location: Varanasi, India  
 
-⭐ Check out my repositories to see my work in Python and backend development.
-
+⭐ Check out my repositories to see my work in Python development, data analytics, and AI foundations.
