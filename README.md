@@ -3,7 +3,7 @@
 🐍 Python Developer | 📊 Data Analytics Enthusiast  
 🤖 Aspiring AI Engineer  
 
-I build backend applications using Python and MySQL, analyze data using NumPy, Pandas, and Power BI, and explore how AI can solve real-world problems. I focus on writing clean, efficient code and improving my analytical thinking.
+I build backend applications using Python and MySQL, analyze data using NumPy and Power BI, and explore how AI can solve real-world problems. I focus on writing clean, efficient code and improving my analytical thinking.
 
 ---
 
