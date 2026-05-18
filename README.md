@@ -1,48 +1,135 @@
-## Hi, I'm Abhishek 👋
+  
 
-🐍 Python Developer | 📊 Data Analytics Enthusiast  
-🤖 Aspiring AI Engineer  
+ Hi 👋, I'm Abhishek Patel
 
-I build backend applications using Python and MySQL, analyze data using NumPy and Power BI, and explore how AI can solve real-world problems. I focus on writing clean, efficient code and improving my analytical thinking.
+Python Developer | Backend Developer | 📊 Data Analytics Enthusiast | Aspiring AI Engineer
 
----
-
-### 🔧 Technical Skills
-- *Programming:* Python, Java  
-- *Data & Analytics:* NumPy,Power BI, MS Excel  
-- *Databases:* MySQL, SQL, DBMS  
-- *Web Basics:* HTML, CSS, PHP  
-- *Tools:* VS Code, MySQL Workbench  
-- *Core Concepts:* OOPs, CRUD Operations, Database Design, Backend Logic  
+💡 Passionate about building scalable backend systems, REST APIs, and data-driven applications using Python and Django.
+🚀 Currently expanding my skills toward Artificial Intelligence, Machine Learning, and AI-powered applications.
+🧠 Inspired by modern AI Engineers working on intelligent systems, automation, and real-world AI solutions.
 
 ---
 
-### 📌 Projects
-- *Mini Banking System (Python + MySQL)*  
-  Backend banking application with account management, transactions, and transaction history.
+👨‍💻 About Me
 
-- *Jarvis – AI Voice Assistant (Python)*  
-  Voice-controlled assistant using speech recognition and text-to-speech.
-
----
-
-### 📚 Currently Learning
-- Machine Learning Fundamentals  
-- Data Analysis with NumPy & Pandas  
-- Power BI Advanced Dashboards  
-
----
-
-### 🎯 Career Interests
-- Python Developer Intern  
-- Data Analyst Intern  
-- AI / Machine Learning Intern  
-- Backend Intern  
+- 🎓 Diploma in Computer Science (2023–2026)
+- 💻 Focused on Backend Development using Python & Django REST Framework
+- 🔥 Interested in AI Engineering, Machine Learning, and Intelligent Systems
+- 📊 Exploring Data Analytics, Power BI, and AI-driven insights
+- 🌱 Currently learning:
+  - Machine Learning
+  - AI APIs
+  - FastAPI
+  - AI Automation
+  - LLM Integrations
+- 🎯 Goal: Become a skilled AI Engineer and Backend Architect
 
 ---
 
-### 📫 Connect With Me
-- 📧 Email: itsabhishek.patel29@gmail.com  
-- 📍 Location: Varanasi, India  
+🛠️ Tech Stack
 
-⭐ Check out my repositories to see my work in Python development, data analytics, and AI foundations.
+Languages
+
+- Python
+- SQL
+- Java (Basic)
+
+Backend Development
+
+- Django
+- Django REST Framework (DRF)
+- RESTful APIs
+- CRUD Operations
+- Authentication & RBAC
+- Django ORM
+
+Databases
+
+- MySQL
+- SQLite
+
+Data Analytics
+
+- Power BI
+- DAX
+- Power Query
+- MS Excel
+- NumPy
+- Matplotlib
+
+Tools & Platforms
+
+- Git & GitHub
+- Postman
+- VS Code
+- MySQL Workbench
+
+---
+
+🚀 Projects
+
+💰 Finance Tracker Backend
+
+RESTful backend system built using Django REST Framework with:
+
+- CRUD APIs
+- Authentication
+- Financial transaction management
+- Real-time balance summaries
+- API testing using Postman
+
+🏦 Mini Banking System
+
+Python + MySQL based backend banking application featuring:
+
+- Account management
+- Deposits & withdrawals
+- Transaction history
+- Database normalization
+- Precise financial calculations
+
+🎓 Student Management System
+
+Full-stack Django web application with:
+
+- Student record management
+- Django ORM
+- Admin dashboard
+- Responsive UI
+
+📊 Sales Performance Dashboard
+
+Interactive Power BI dashboard for:
+
+- KPI tracking
+- Revenue analysis
+- Data cleaning & transformation
+- Dynamic business insights
+
+---
+
+📈 Current Learning Journey
+
+while True:
+    learn()
+    build_projects()
+    improve_skills()
+    move_towards("AI Engineering")
+
+---
+
+🌐 Connect With Me
+
+- 💼 LinkedIn: linkedin.com/in/abhishek-patel-1b4900361
+- 💻 GitHub: github.com/Abhishek-pytech
+- 🌍 Portfolio: abhishek-portfolio-2026.netlify.app
+- 📧 Email: itsabhishek.patel29@gmail.com
+
+---
+
+⚡ Fun Fact
+
+I enjoy building backend systems and exploring how AI can make software smarter, faster, and more human-like.
+  
+
+
